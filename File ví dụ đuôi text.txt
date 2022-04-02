@@ -1,2 +1,7 @@
 Ví dụ file text để chỉnh sửa trên GitHub
 GitHub có thể mở được các file lập trình như java, javascript, html, css
+
+Những dòng này là chỉnh sửa trên GitHub
+Thường sẽ không chỉnh sửa trực tiếp trên remote repository,
+mà phải pull về local repository (máy mình) để chỉnh,
+rồi lại push lên 
