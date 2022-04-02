@@ -1,0 +1,2 @@
+Ví dụ file text để chỉnh sửa trên GitHub
+GitHub có thể mở được các file lập trình như java, javascript, html, css
